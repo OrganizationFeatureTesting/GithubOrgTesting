@@ -6,6 +6,8 @@ This is an open source project developed using APIs to download and process trad
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+![trade-window-with-data](https://user-images.githubusercontent.com/17523516/122042733-2453fe80-cdf8-11eb-91c1-91136dab87cc.jpg)
+
 
 ### Prerequisites
 
